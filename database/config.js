@@ -1,7 +1,7 @@
 module.exports = {
-  user: "root",
-  password: "rootroot",
-  database: "Search",
+  user: "reku68",
+  password: "password",
+  database: "canadaamazon",
   port: 3306,
-  host: "search-db.chzpnlh9hj36.us-east-2.rds.amazonaws.com"
+  host: "mybb.cfpgvexeasco.us-east-2.rds.amazonaws.com"
 };

@@ -26,7 +26,7 @@ const InputForm = ({
         <Navbar.Brand href="#home">
           <img
             id="logo-nav"
-            src="http://nodedockersearch-env.z6b7pgpgn9.us-east-2.elasticbeanstalk.com/FEC-logo.png"
+            src="https://saskatchewanazon-search.herokuapp.com/FEC-logo.png"
             className="d-inline-block align-top"
             alt="Saskatchewanizon logo"
           />
